@@ -5,10 +5,6 @@
 
 
 
-Aqui você encontrará informações sobre minha trajetória, projetos e habilidades.
-
-
-
 ## Sobre mim
 
 Sou Natasha, uma profissional com mais de 15 anos no mercado de trabalho, em transição para a área de ciência de dados, com formação pela EBAC.
