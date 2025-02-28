@@ -43,9 +43,3 @@ Em construção.
 
 - LinkedIn: [natashaporto](https://www.linkedin.com/in/natashaporto/)
 - Email: [natashaporto@hotmail.com](mailto:natashaporto@hotmail.com)
-
-## Habilidades
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
